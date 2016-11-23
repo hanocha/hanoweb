@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hanocha/hanoweb/issues"
   },
-  "homepage": "https://github.com/hanocha/hanoweb#readme"
+  "homepage": "https://github.com/hanocha/hanoweb#readme",
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
 }
