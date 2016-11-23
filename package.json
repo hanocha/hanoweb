@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hanocha/hanoweb#readme",
   "devDependencies": {
-    "webpack": "^1.13.3"
+    "webpack": "^2.1.0-beta"
   }
 }
